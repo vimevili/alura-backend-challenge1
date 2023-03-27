@@ -57,7 +57,7 @@ public class Conversor extends ConversorGeral {
 
 					int resposta = JOptionPane.showConfirmDialog(null, "Deseja continuar?");
 					if (JOptionPane.OK_OPTION == resposta) {
-						JOptionPane.showInputDialog("Escolha opção Afirmativa");
+						System.out.println("Escolha opção Afirmativa");
 					} else {
 						JOptionPane.showMessageDialog(null, "Programa finalizado");
 					}
