@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="pt-br">
-list-style-image:);
+
 <head>
   <h1>Conversor de Moedas e Temperaturas</h1>
   <p>Este projeto foi desenvolvido a partir do Challenge ONE Back End - Java Sprint 01: Crie seu próprio conversor de moeda. </p>
